@@ -11,7 +11,7 @@ The section which on selection has css style applied to it which implies that it
 - [Development](#Development)
 - [Features](#Features)
 
-#Features
+# Features
 <ol>
 <li>The Navigation bar will be populated according to the number of the section.</li>
 <li>By clicking the on the navbar buttons it will directly jump to the corresponding section.</li>
