@@ -8,8 +8,6 @@ The section which on selection has css style applied to it which implies that it
 
 # Table of contents
 
-
-- [Project Title](#Landing page project)
 - [Development](#Development)
 - [Features](#Features)
 
@@ -22,7 +20,7 @@ The section which on selection has css style applied to it which implies that it
 
 
 # Development
-[(Back to top)](#table-of-contents)
+(#table-of-contents)
 <p>The page initially consists of four sections and if a new section is added the buildNavBar() function in the js/app.js
 will automatically add [ li ] elements which include [ a ] elements with destination matching with the 
 corresponding section.</p><p>SetActive() function is used to get the section's dimensions and checks if it's in the 
